@@ -26,3 +26,9 @@ hs_err_pid*
 .DS_Store
 /code-zips
 /ssl
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
