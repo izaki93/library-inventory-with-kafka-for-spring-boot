@@ -2,8 +2,6 @@
 Library Inventory are  producer and consumer micro service with Kafka for adding and Modifying books metadata
 
 
-# Library Inventory Architecture
-
 ![alt text](https://github.com/izaki93/library-inventory-with-kafka-for-spring-boot/blob/master/Library-Inventory-Architecture.png)
 
 ## Setup Kafka
