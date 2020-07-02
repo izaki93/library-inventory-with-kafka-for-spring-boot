@@ -32,9 +32,9 @@ spring:
       value-serializer: org.apache.kafka.common.serialization.StringSerializer
       ssl:
         trust-store-location: file:/Users/imohsen-c/IdeaProjects/library-inventory-with-kafka-for-spring-boot/ssl/client.truststore.jks
-        trust-store-password: 123654
+        trust-store-password: password
         key-store-location: file:/Users/imohsen-c/IdeaProjects/library-inventory-with-kafka-for-spring-boot/ssl/client.keystore.jks
-        key-store-password: 123654
+        key-store-password: password
       properties:
         acks: all
         retries: 10
